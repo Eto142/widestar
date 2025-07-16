@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="{{ asset('home/asset/css/dark-theme.css') }}">
 <link rel="stylesheet" href="{{ asset('home/asset/css/responsive.css') }}">
 
-    <link rel="icon" type="image/png" href="home/asset/img/logo.png">
+    <link rel="icon" type="image/png" href="{{ asset('home/asset/img/logo.png') }}">
 
 <title>Wide Star Standard Bank - Online Banking Platform</title>
     

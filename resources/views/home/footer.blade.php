@@ -105,17 +105,17 @@
 <a href="javascript:void(0)" class="back-to-top bounce"><i class="ri-arrow-up-s-line"></i></a>
 
 
-<script src="home/asset/js/jquery.min.js"></script>
-<script src="home/asset/js/bootstrap.bundle.min.js"></script>
-<script src="home/asset/js/form-validator.min.js"></script>
-<script src="home/asset/js/contact-form-script.js"></script>
-<script src="home/asset/js/aos.js"></script>
-<script src="home/asset/js/owl.carousel.min.js"></script>
-<script src="home/asset/js/odometer.min.js"></script>
-<script src="home/asset/js/fancybox.js"></script>
-<script src="home/asset/js/jquery.appear.js"></script>
-<script src="home/asset/js/tweenmax.min.js"></script>
-<script src="home/asset/js/main.js"></script>
+<script src="{{ asset('home/asset/js/jquery.min.js') }}"></script>
+<script src="{{ asset('home/asset/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('home/asset/js/form-validator.min.js') }}"></script>
+<script src="{{ asset('home/asset/js/contact-form-script.js') }}"></script>
+<script src="{{ asset('home/asset/js/aos.js') }}"></script>
+<script src="{{ asset('home/asset/js/owl.carousel.min.js') }}"></script>
+<script src="{{ asset('home/asset/js/odometer.min.js') }}"></script>
+<script src="{{ asset('home/asset/js/fancybox.js') }}"></script>
+<script src="{{ asset('home/asset/js/jquery.appear.js') }}"></script>
+<script src="{{ asset('home/asset/js/tweenmax.min.js') }}"></script>
+<script src="{{ asset('home/asset/js/main.js') }}"></script>
 
 
 
