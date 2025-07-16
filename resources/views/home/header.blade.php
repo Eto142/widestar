@@ -8,20 +8,36 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="home/asset/css/bootstrap.min.css">
-    <link rel="stylesheet" href="home/asset/css/flaticon.css">
-    <link rel="stylesheet" href="home/asset/css/remixicon.css">
-    <link rel="stylesheet" href="home/asset/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="home/asset/css/odometer.min.css">
-    <link rel="stylesheet" href="home/asset/css/fancybox.css">
-    <link rel="stylesheet" href="home/asset/css/aos.css">
-    <link rel="stylesheet" href="home/asset/css/style.css">
-    <link rel="stylesheet" href="home/asset/css/dark-theme.css">
-    <link rel="stylesheet" href="home/asset/css/responsive.css">
-    <title>Wide Star Standard Bank - Money Transfer & Banking</title>
+   <link rel="stylesheet" href="{{ asset('home/asset/css/bootstrap.min.css') }}">
+   <link rel="stylesheet" href="{{ asset('home/asset/css/flaticon.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/remixicon.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/odometer.min.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/fancybox.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/aos.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/style.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/dark-theme.css') }}">
+<link rel="stylesheet" href="{{ asset('home/asset/css/responsive.css') }}">
+
     <link rel="icon" type="image/png" href="home/asset/img/logo.png">
 
+<title>Wide Star Standard Bank - Online Banking Platform</title>
+    
+    <!-- Meta Description for Google -->
+    <meta name="description" content="Wide Star Standard Bank offers secure and innovative online banking solutions. Trusted financial services for individuals and businesses worldwide." />
 
+    <!-- Open Graph for Social Media -->
+    <meta property="og:title" content="Wide Star Standard Bank - Online Banking Platform" />
+    <meta property="og:description" content="Secure and innovative online banking services for individuals and businesses globally." />
+    <meta property="og:image" content="logo.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://widestarstandardbk.online/" />
+
+    <!-- Mobile Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Optional: Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
  <!-- Top Right -->
                         <div class="bottom-left">
